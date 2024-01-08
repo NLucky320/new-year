@@ -167,7 +167,7 @@ main {
 }
 .soon {
   width: 393px;
-  margin-right: 70px;
+  margin-right: 120px;
   margin-bottom: 106px;
 }
 .twenty {
@@ -446,13 +446,17 @@ main {
 }
 footer {
   background: #070211;
+}
+.footer-width {
+  width: 1320px;
+  margin: auto;
   color: #fff;
   font-family: Inter;
   font-size: 24px;
   font-style: normal;
   line-height: 40px; /* 166.667% */
   font-weight: 500;
-  padding: 120px 140px;
+  padding: 120px 20px;
 }
 .foot {
   display: flex;
@@ -497,4 +501,6 @@ hr {
   color: #fff;
   text-decoration: none;
   font-size: 24px;
+  background-color: black;
+  border: none;
 }
