@@ -3,6 +3,8 @@
 }
 body {
   margin: 0;
+}
+main {
   max-width: 1320px;
   margin: auto;
 }
@@ -26,17 +28,17 @@ body {
 }
 .new {
   /* padding: 177px 531px 383px 530px; */
-  font-size: 32px !important;
-  font-style: normal !important;
-  font-weight: 400 !important;
-  line-height: normal !important;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 .party {
   /* padding: 233px 344px 177px 344px; */
-  font-size: 72px !important;
-  font-style: normal !important;
-  font-weight: 900 !important;
-  line-height: 95px !important;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 95px;
   max-width: 632px;
   margin: auto;
 }
@@ -450,7 +452,7 @@ footer {
   font-style: normal;
   line-height: 40px; /* 166.667% */
   font-weight: 500;
-  padding: 120px 20px;
+  padding: 120px 140px;
 }
 .foot {
   display: flex;
