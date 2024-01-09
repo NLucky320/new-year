@@ -499,6 +499,9 @@ hr {
 .social-icon {
   text-align: center;
 }
+.tw {
+  display: inline-block;
+}
 .un {
   color: #fff;
   text-decoration: none;
